@@ -11,12 +11,6 @@
 
 - ⚡ Fun fact **Bears are cute!**
 
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
 <br />
 <br />
 
@@ -44,6 +38,14 @@ No Activity tracked this Week
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jarebear12418&repo=Security-System&theme=onedark" alt="Security-System" />
 </a>
 </p>
+
+<h1 align="center">Coding Metrics:</h1>
+<!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
+<!--END_SECTION:waka-->
+<br />
 
 <h1 align="center">What I use:</h1>
 <h3 align="center">Languages and Frameworks:</h3>
