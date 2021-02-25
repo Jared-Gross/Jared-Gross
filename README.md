@@ -14,16 +14,30 @@
 <br />
 <br />
 
-<h1 align="center">Stats:</h1>
+<h3 align="center"> &#x1f4c8; GitHub Stats: </h3>
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jarebear12418" alt="jarebear12418" />
-<img src="https://github-readme-stats.vercel.app/api?username=jarebear12418&show_icons=true&theme=dark&locale=en" alt="jarebear12418" width="350" height="140"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jarebear12418&show_icons=true&theme=dark&locale=en&layout=compact" alt="jarebear12418" width="350" height="140"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jarebear12418&theme=dark" alt="jarebear12418" width="350" height="140"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jarebear12418&theme=onedark" alt="jarebear12418" width="350" height="140"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jarebear12418&theme=onedark&layout=compact" alt="jarebear12418" width="350" height="140"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jarebear12418&theme=onedark" alt="jarebear12418" width="350" height="140"/>
 </p>
 
-<br />
-<br />
+<h3 align="center"> 🏆 GitHub Trophies </h3>
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jarebear12418&theme=onedark" alt="jarebear12418" />
+</p>
+
+<h3 align="center"> 🗂️ Highlight Projects  </h3>
+<p align="center">
+<a href="https://github.com/JareBear12418/Algorhythm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jarebear12418&repo=Algorhythm&theme=onedark" alt="Algorhythm" />
+</a>
+<a href="https://github.com/JareBear12418/DXF-to-PNG-Converter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jarebear12418&repo=DXF-to-PNG-Converter&theme=onedark" alt="DXF-to-PNG-Converter" />
+</a>
+<a href="https://github.com/JareBear12418/Security-System">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jarebear12418&repo=Security-System&theme=onedark" alt="Security-System" />
+</a>
+</p>
 
 <h1 align="center">What I use:</h1>
 <h3 align="center">Languages and Frameworks:</h3>
@@ -37,7 +51,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
 <code><img width="5%" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_kivy_icon_130489.png"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/qtio/qtio-icon.svg"></code>
-<br />
+
 </p>
 <h3 align="center">Tools:</h3>
 <p align="center">
@@ -45,6 +59,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg"></code>
 </p>
+
 <h3 align="center">Platforms:</h3>
 <p align="center">
 <code><img width="15%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F7%2F76%2FKubuntu_logo_and_wordmark.svg%2F1024px-Kubuntu_logo_and_wordmark.svg.png%3Fref%3Dschemecolor&f=1&nofb=1"></code>
@@ -53,9 +68,6 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apple/apple-ar21.svg"></code>
 </p>
-
-<br />
-<br />
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
