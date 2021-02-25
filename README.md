@@ -35,7 +35,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
 <code><img width="5%" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_kivy_icon_130489.png"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/qtio/qtio-ar21.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/qtio/qtio-icon.svg"></code>
 <br />
 </p>
 <h3 align="center">Tools:</h3>
@@ -48,6 +48,7 @@
 <p align="center">
 <code><img width="15%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F7%2F76%2FKubuntu_logo_and_wordmark.svg%2F1024px-Kubuntu_logo_and_wordmark.svg.png%3Fref%3Dschemecolor&f=1&nofb=1"></code>
 <code><img width="8%" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Unofficial_fan_made_Windows_7_logo_variant.svg"></code>
+<code><img width="5%" src="https://cdn.iconscout.com/icon/free/png-512/raspberry-18-226046.png"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apple/apple-ar21.svg"></code>
 </p>
