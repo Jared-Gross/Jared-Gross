@@ -1,16 +1,35 @@
 <h1 align="center">Hi 👋, I'm JareBear</h1>
 <h3 align="center">Passionate software engineer. Check out my projects. :)</h3>
 
-- 🔭 I’m currently working on **New android app with Python and Kivy.**
+```python
+#!/usr/bin/python3.8
 
-- 🌱 I’m currently learning **kivy**
+from datetime import datetime
 
-- 💬 Ask me about **Python, Unity development, or anything else.**
+class Stats:
+    '''
+    This is information about me.
+    '''
+    def __init__(self):
+        self.USERNAME: str = 'JareBear'
+        self.NAME: str = 'Jared Gross'
+        self.BIRTHDAY: datetime = datetime(2002, 3, 14, 3, 14, 15)
+        self.AGE: int = int((datetime.now() - self.BIRTHDAY).total_seconds()*0.00000003168809)
+        self.STARTING_DATE: datetime = datetime(2016, 3, 14)
+        self.CODING_LENGTH: int = int((datetime.now() - self.STARTING_DATE).total_seconds()*0.00000003168809)
+        self.FAVOURITE_COLOR: tuple = (0, 64, 255)
+        self.HOBBIES: list = ['Programming', 'Robotics', 'Carpentary', 'Knife Throwing', 'Archery', 'Trapping']
+        self.CODE: dict = {
+            'Frontend': ['PyQt5', 'Kivy'],
+            'Backend': ['Python', 'Unity-Csharp', 'Arduino'],
+            'Tools': ['Visual Studio Code', 'XCode', 'Unity3d', 'GitHub'],
+            'Platforms': ['Kubuntu', 'Windows 7', 'Android', 'Raspberry pi', 'Apple']
+        }
+        self.WEBSITE: str = 'https://thecodingjsoftware.weebly.com'
 
-- 📫 How to reach me **jaredgrozz@gmail.com**
-
-- ⚡ Fun fact **Bears are cute!**
-
+if __name__ == '__main__':
+    JareBear = Stats()
+```
 <br />
 <br />
 
@@ -78,8 +97,8 @@
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-<a href="https://stackoverflow.com/users/12139409" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12139409" height="30" width="40" /></a>
-<a href="https://instagram.com/jaredgrosspl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jaredgrosspl" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucjxehldgmg2ztol2euwjcdg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucjxehldgmg2ztol2euwjcdg" height="30" width="40" /></a>
-<a href="https://discord.gg/EtrSc4s" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="EtrSc4s" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12139409" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg" alt="12139409" width="10%" /></a>
+<a href="https://instagram.com/jaredgrosspl" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg" alt="jaredgrosspl" width="10%" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucjxehldgmg2ztol2euwjcdg" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg" width="10%" /></a>
+<a href="https://discord.gg/EtrSc4s" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg" alt="EtrSc4s" width="10%" /></a>
 </p>
