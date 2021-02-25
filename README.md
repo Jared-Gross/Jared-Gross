@@ -33,6 +33,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
+<code><img width="17%" src="https://matplotlib.org/3.1.0/_images/sphx_glr_logos2_003.png"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
 <code><img width="5%" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_kivy_icon_130489.png"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/qtio/qtio-icon.svg"></code>
