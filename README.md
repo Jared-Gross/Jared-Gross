@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JareBear</h1>
-<h3 align="center">Passionate software engineer. Check out my projects. :)</h3>
+<h3 align="center">Passionate software developer. Check out my highlighted projects below. :smiley: </h3>
 
 ```python
 #!/usr/bin/python3.8
