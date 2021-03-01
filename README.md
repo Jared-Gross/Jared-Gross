@@ -58,14 +58,6 @@ if __name__ == '__main__':
 </a>
 </p>
 
-<h1 align="center">Coding Metrics:</h1>
-
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
 <br />
 
 <h1 align="center">What I use:</h1>
