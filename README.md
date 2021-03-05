@@ -56,6 +56,9 @@ if __name__ == '__main__':
 <a href="https://github.com/JareBear12418/Security-System">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jarebear12418&repo=Security-System&theme=onedark" alt="Security-System" />
 </a>
+<a href="https://github.com/JareBear12418/Daily-Git-Commit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jarebear12418&repo=Daily-Git-Commit&theme=onedark" alt="Daily-Git-Commit" />
+</a>
 </p>
 
 <br />
