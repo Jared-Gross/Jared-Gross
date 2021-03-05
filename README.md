@@ -35,29 +35,29 @@ if __name__ == '__main__':
 
 <h3 align="center"> &#x1f4c8; GitHub Stats: </h3>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jarebear12418&theme=onedark" alt="jarebear12418" width="350" height="140"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jarebear12418&theme=onedark&layout=compact" alt="jarebear12418" width="350" height="140"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jarebear12418&theme=onedark" alt="jarebear12418" width="350" height="140"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jarebear12418&theme=gruvbox" alt="jarebear12418" width="350" height="140"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jarebear12418&theme=gruvbox&layout=compact" alt="jarebear12418" width="350" height="140"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jarebear12418&theme=gruvbox" alt="jarebear12418" width="350" height="140"/>
 </p>
 
 <h3 align="center"> 🏆 GitHub Trophies </h3>
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jarebear12418&theme=onedark" alt="jarebear12418" />
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jarebear12418&theme=gruvbox&no-bg=false&margin-w=15&margin-h=15&row=2&column=3&no-frame=false" alt="jarebear12418" />
 </p>
 
 <h3 align="center"> 🗂️ Highlight Projects  </h3>
 <p align="center">
 <a href="https://github.com/JareBear12418/Algorhythm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jarebear12418&repo=Algorhythm&theme=onedark" alt="Algorhythm" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jarebear12418&repo=Algorhythm&theme=gruvbox" alt="Algorhythm" />
 </a>
 <a href="https://github.com/JareBear12418/DXF-to-PNG-Converter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jarebear12418&repo=DXF-to-PNG-Converter&theme=onedark" alt="DXF-to-PNG-Converter" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jarebear12418&repo=DXF-to-PNG-Converter&theme=gruvbox" alt="DXF-to-PNG-Converter" />
 </a>
 <a href="https://github.com/JareBear12418/Security-System">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jarebear12418&repo=Security-System&theme=onedark" alt="Security-System" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jarebear12418&repo=Security-System&theme=gruvbox" alt="Security-System" />
 </a>
 <a href="https://github.com/JareBear12418/Daily-Git-Commit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jarebear12418&repo=Daily-Git-Commit&theme=onedark" alt="Daily-Git-Commit" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jarebear12418&repo=Daily-Git-Commit&theme=gruvbox" alt="Daily-Git-Commit" />
 </a>
 </p>
 
