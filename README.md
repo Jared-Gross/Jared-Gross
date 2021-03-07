@@ -63,7 +63,7 @@ if __name__ == '__main__':
 
 <br />
 
-<h3 align="center"> Langauges/Files Activity </h3>
+<h3 align="center"> &#x1f4c8; Coding Activity </h3>
 <p align="center">
 <img width="65%" align="center" src="https://github.com/JareBear12418/JareBear12418/blob/main/stats.png" alt="Activity" />
 <h4 align="center"> 2021/02/28 4:11 PM - TODAY </h4>
