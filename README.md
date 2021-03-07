@@ -63,6 +63,14 @@ if __name__ == '__main__':
 
 <br />
 
+<h3 align="center"> Langauges/Files Activity </h3>
+<p align="center">
+<img width="65%" align="center" src="https://i.imgur.com/KI4Neku.png" alt="Activity" />
+<h4 align="center"> 2021/02/28 4:11 PM - TODAY </h4>
+</p>
+
+<br />
+
 <h1 align="center">What I use:</h1>
 <h3 align="center">Languages and Frameworks:</h3>
 <p align="center">
