@@ -30,6 +30,10 @@ class Stats:
 if __name__ == '__main__':
     JareBear = Stats()
 ```
+<h3 align="center"> &#x1f4c8; GitHub Stats: </h3>
+<p align="center">
+    <img src="https://hit.yhype.me/github/profile?user_id=25397800)" alt="jarebear12418" width="230" height="64"/>
+</p>
 <br />
 <br />
 
