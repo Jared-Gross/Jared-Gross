@@ -31,11 +31,10 @@ if __name__ == '__main__':
     JareBear = Stats()
 ```
 <br />
-<br />
 
 <h3 align="center"> &#x1f4c8; GitHub Stats: </h3>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jarebear12418&theme=gruvbox" alt="jarebear12418" width="350" height="140"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jarebear12418&theme=gruvbox&show_icons=true" alt="jarebear12418" width="350" height="140"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jarebear12418&theme=gruvbox&layout=compact" alt="jarebear12418" width="350" height="140"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jarebear12418&theme=gruvbox" alt="jarebear12418" width="350" height="140"/>
 </p>
