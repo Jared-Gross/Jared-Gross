@@ -75,6 +75,7 @@ if __name__ == '__main__':
 <p align="center">
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
+<code><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
