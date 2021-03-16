@@ -22,7 +22,7 @@ class Stats:
         self.CODE: dict = {
             'Frontend': ['PyQt5', 'Kivy'],
             'Backend': ['Python', 'Unity-Csharp', 'Arduino'],
-            'Tools': ['Visual Studio Code', 'XCode', 'Unity3d', 'GitHub'],
+            'Tools': ['KDevelop', 'XCode', 'Unity3d', 'GitHub'],
             'Platforms': ['Kubuntu', 'Windows 7', 'Android', 'Raspberry pi', 'Apple']
         }
         self.WEBSITE: str = 'https://thecodingjsoftware.weebly.com'
@@ -30,6 +30,8 @@ class Stats:
 if __name__ == '__main__':
     JareBear = Stats()
 ```
+<img src="https://gitwar.herokuapp.com/badge?username=jarebear12418&style=for-the-badge&color=blue" width="228" height="35" >
+
 <br />
 
 <h3 align="center"> &#x1f4c8; GitHub Stats: </h3>
