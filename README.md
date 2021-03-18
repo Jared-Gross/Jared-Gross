@@ -66,7 +66,9 @@ if __name__ == '__main__':
 
 <h3 align="center"> &#x1f4c8; Coding Activity </h3>
 <p align="center
-<img src="https://github.com/jarebear12418/jarebear12418/blob/main/images/stat.svg" alt="JareBear WakaTime Activity"/>
+ <!-- waka-box start -->
+ <!-- waka-box end -->
+<img src="https://github.com/jarebear12418/jarebear12418/blob/main/stat.svg" alt="JareBear WakaTime Activity"/>
 </p>
 
 <br />
