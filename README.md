@@ -65,10 +65,14 @@ if __name__ == '__main__':
 <br />
 
 <h3 align="center"> &#x1f4c8; Coding Activity </h3>
-<p align="center">
-<img width="65%" align="center" src="https://github.com/JareBear12418/JareBear12418/blob/main/stats.png" alt="Activity" />
-<h4 align="center"> 2021/02/28 4:11 PM - TODAY </h4>
-</p>
+
+<!--START_SECTION:waka-->
+```text
+Week: 11 March, 2021 - 18 March, 2021
+
+C++    11 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶   98.59 % 
+```
+<!--END_SECTION:waka-->
 
 <br />
 
