@@ -65,6 +65,7 @@ if __name__ == '__main__':
 <br />
 
 <h3 align="center"> &#x1f4c8; Coding Activity </h3>
+
 <!--START_SECTION:waka-->
 ```text
 Week: 11 March, 2021 - 18 March, 2021
