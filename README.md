@@ -65,7 +65,6 @@ if __name__ == '__main__':
 <br />
 
 <h3 align="center"> &#x1f4c8; Coding Activity </h3>
-<p align="center
 <!--START_SECTION:waka-->
 ```text
 Week: 11 March, 2021 - 18 March, 2021
@@ -73,8 +72,6 @@ Week: 11 March, 2021 - 18 March, 2021
 C++    11 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶   98.59 % 
 ```
 <!--END_SECTION:waka-->
-<img src="https://github.com/jarebear12418/jarebear12418/blob/main/stat.svg" alt="JareBear WakaTime Activity"/>
-</p>
 
 <br />
 
