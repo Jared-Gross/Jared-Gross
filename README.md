@@ -30,7 +30,7 @@ class Stats:
 if __name__ == '__main__':
     JareBear = Stats()
 ```
-<img src="https://gitwar.herokuapp.com/badge?username=jarebear12418&style=for-the-badge&color=blue" width="228" height="35" >
+<img src="https://gitwar.herokuapp.com/badge?username=jarebear12418&style=for-the-badge&color=blue">
 
 <br />
 
