@@ -67,8 +67,7 @@ if __name__ == '__main__':
 <h3 align="center"> &#x1f4c8; Code stats </h3>
 <h4 align="center"> WakaTime </h4>
 <p align="center">
-<a href="https://wakatime.com"><img width="60%" src="https://wakatime.com/share/@JareBear/ede8673e-c42b-48ff-8cd3-34edb1007719.png" /></a>
-</p>
+<a href="https://wakatime.com"><img width="60%" src="https://wakatime.com/share/@JareBear/58d3e5ec-5206-45c7-8066-2819b4834979.png" /></a></p>
 <h4 align="center"> LTT </h4>
 <p align="center">
 <a href="https://github.com"><img width="50%" src="https://github.com/JareBear12418/JareBear12418/blob/main/stats.png" /></a>
