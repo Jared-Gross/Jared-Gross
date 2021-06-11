@@ -1,37 +1,6 @@
 <h1 align="center">Hi <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />, I'm JareBear :bear: </h1>
 <h3 align="center">Passionate software developer. Check out my highlighted projects below. :smiley: </h3>
 
-```python
-#!/usr/bin/python3.8
-
-from datetime import datetime
-
-class Stats:
-    '''
-    This is information about me.
-    '''
-    def __init__(self):
-        self.USERNAME: str = 'JareBear'
-        self.NAME: str = 'Jared Gross'
-        self.BIRTHDAY: datetime = datetime(2002, 3, 14, 3, 14, 15)
-        self.AGE: int = int((datetime.now() - self.BIRTHDAY).total_seconds()*0.00000003168809)
-        self.STARTING_DATE: datetime = datetime(2016, 3, 14)
-        self.CODING_LENGTH: int = int((datetime.now() - self.STARTING_DATE).total_seconds()*0.00000003168809)
-        self.FAVOURITE_COLOR: tuple = (0, 64, 255)
-        self.HOBBIES: list = ['Programming', 'Robotics', 'Carpentary', 'Knife Throwing', 'Archery', 'Trapping']
-        self.CODE: dict = {
-            'Frontend': ['PyQt5', 'Kivy'],
-            'Backend': ['Python', 'Unity-Csharp', 'Arduino'],
-            'Tools': ['KDevelop', 'XCode', 'Unity3d', 'GitHub'],
-            'Platforms': ['Kubuntu', 'Windows 7', 'Android', 'Raspberry pi', 'Apple']
-        }
-        self.WEBSITE: str = 'https://thecodingjsoftware.weebly.com'
-
-if __name__ == '__main__':
-    JareBear = Stats()
-```
-<img src="https://gitwar.herokuapp.com/badge?username=jarebear12418&style=for-the-badge&color=blue">
-
 <br />
 
 <h3 align="center"> &#x1f4c8; GitHub Stats: </h3>
@@ -62,16 +31,6 @@ if __name__ == '__main__':
 </a>
 </p>
 
-<br />
-
-<h3 align="center"> &#x1f4c8; Code stats </h3>
-<h4 align="center"> WakaTime </h4>
-<p align="center">
-<a href="https://wakatime.com"><img width="60%" src="https://wakatime.com/share/@JareBear/58d3e5ec-5206-45c7-8066-2819b4834979.png" /></a></p>
-<h4 align="center"> LTT </h4>
-<p align="center">
-<a href="https://github.com"><img width="50%" src="https://github.com/JareBear12418/JareBear12418/blob/main/stats.png" /></a>
-</p>
 <br />
 
 <h1 align="center">What I use:</h1>
