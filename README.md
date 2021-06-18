@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />, I'm JareBear :bear: </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="32" />, I'm JareBear :bear: </h1>
 <h3 align="center">Passionate software developer. Check out my highlighted projects below. :smiley: </h3>
 
 <br />
