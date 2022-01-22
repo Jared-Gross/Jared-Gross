@@ -1,44 +1,15 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="32" />, I'm JareBear :bear: </h1>
 <h3 align="center">Hope your doing well. :smiley: </h3>
 
-<br />
+![Metrics](https://metrics.lecoq.io/jarebear12418?template=classic&languages=1&people=1&lines=1&notable=1&achievements=1&gists=1&repositories=1&isocalendar=1&introduction=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=true&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=user&notable.repositories=true&notable.indepth=true&repositories.featured=JareBear12418%2FAlgorhythm%2C%20JareBear12418%2FDaily-Git-Commit%2C%20JareBear12418%2FRocketLeague-Dropshot-Calculated-shot-Python%2C%20JareBear12418%2FThe-BEST-way-to-convert-files%2C%20JareBear12418%2FSecurity-System%2C%20JareBear12418%2FDXF-to-PNG-Converter&introduction.title=true&config.timezone=America%2FWinnipeg)
 
-<h3 align="center"> &#x1f4c8; GitHub Stats: </h3>
-<p align="center">
-<img src="https://github.com/jarebear12418/github-stats/blob/master/generated/overview.svg" width="400" height="235"/>
-</p>
-<p align="center" valigh="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jarebear12418&theme=tokyonight&layout=compact" alt="jarebear12418" width="330" height="200"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jarebear12418&theme=tokyonight" alt="jarebear12418" width="380" height="200"/>
-</p>
 
-<h3 align="center"> 🗂️ Highlight Projects  </h3>
-<p align="center">
-<a href="https://github.com/JareBear12418/Algorhythm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jarebear12418&repo=Algorhythm&theme=tokyonight" alt="Algorhythm" />
-</a>
-<a href="https://github.com/JareBear12418/DXF-to-PNG-Converter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jarebear12418&repo=DXF-to-PNG-Converter&theme=tokyonight" alt="DXF-to-PNG-Converter" />
-</a>
-<a href="https://github.com/JareBear12418/Security-System">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jarebear12418&repo=Security-System&theme=tokyonight" alt="Security-System" />
-</a>
-<a href="https://github.com/JareBear12418/Daily-Git-Commit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jarebear12418&repo=Daily-Git-Commit&theme=tokyonight" alt="Daily-Git-Commit" />
-</a>
-<a href="https://github.com/JareBear12418/The-BEST-way-to-convert-files">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jarebear12418&repo=The-BEST-way-to-convert-files&theme=tokyonight" alt="The-BEST-way-to-convert-files" />
-</a>
-<a href="https://github.com/JareBear12418/RocketLeague-Dropshot-Calculated-shot-Python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jarebear12418&repo=RocketLeague-Dropshot-Calculated-shot-Python&theme=tokyonight" alt="RocketLeague-Dropshot-Calculated-shot-Python" />
-</a>
-</p>
+<details
 
 <h3 align="center"> 🏆 GitHub Trophies </h3>
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jarebear12418&theme=tokyonight&no-bg=false&margin-w=15&margin-h=15&row=2&column=3&no-frame=false&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,UNKNOWN" alt="jarebear12418" />
 </p>
-
 
 <br />
 
