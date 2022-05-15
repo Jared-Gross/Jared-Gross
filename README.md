@@ -1,6 +1,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="32" />, I'm JareBear :bear: </h1>
 <h3 align="center">Hope your doing well. :smiley: </h3>
 
+
+<a href="https://discord.com/users/204435852468813825"><img align="right" src="https://lanyard.cnrad.dev/api/204435852468813825?idleMessage=ʕつ•ᴥ•ʔつ&hideBadges=true&bg=00000000" /></a>
+
+
+  
 ![Metrics](https://metrics.lecoq.io/jarebear12418?template=classic&languages=1&people=1&lines=1&notable=1&achievements=1&gists=1&repositories=1&isocalendar=1&introduction=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=true&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=user&notable.repositories=true&notable.indepth=true&repositories.featured=JareBear12418%2FAlgorhythm%2C%20JareBear12418%2FDaily-Git-Commit%2C%20JareBear12418%2FRocketLeague-Dropshot-Calculated-shot-Python%2C%20JareBear12418%2FThe-BEST-way-to-convert-files%2C%20JareBear12418%2FSecurity-System%2C%20JareBear12418%2FDXF-to-PNG-Converter&introduction.title=true&config.timezone=America%2FWinnipeg)
 
 
